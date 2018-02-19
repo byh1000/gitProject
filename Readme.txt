@@ -16,4 +16,8 @@ git push origin master // 깃허브로 푸시한다.
 
 git pull origin master // 깃허브로 인한다.
 
-2222222
+git log		// commit log
+git checkout [커밋아이디]		// 복구
+
+
+33333333
