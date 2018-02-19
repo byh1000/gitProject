@@ -1,11 +1,10 @@
-git config --global user.name "byh1000"
-git config --global user.email "byh1000@wips.co.kr" // 매번 물어보는 귀찮음을 피하기 위해 설정.
 
-mkdir ~/gitProject   // 로컬 디렉토리 만들고
-cd ~/gitProject      // 디렉토리로 들어가서
-git init            // 깃 명령어를 사용할 수 있는 디렉토리로 만든다.
-git status          // 현재 상태를 훑어보고
+test test 
+test test 
+test test 
+test test 
 
+<<<<<<< HEAD
 git add 화일명.확장자  // 깃 주목 리스트에 화일을 추가하고 or
 git add .           // 이 명령은 현재 디렉토리의 모든 화일을 추가할 수 있다.
 git commit -m “현재형으로 설명” // 커밋해서 스냅샷을 찍는다.
@@ -21,3 +20,5 @@ git checkout [커밋아이디]		// 복구
 
 
 33333333
+=======
+>>>>>>> 640575d4f6bb8a9f1488ed11d01f4ea252746b3f
